@@ -36,3 +36,41 @@ C:\Users\Anbumani.T\OneDrive - Brillio\Desktop\Capstone-project\MongoRepository\
 C:\Users\Anbumani.T\OneDrive - Brillio\Desktop\Capstone-project\MongoRepository\MongoRepository\obj\Debug\net6.0\MongoRepository.pdb
 C:\Users\Anbumani.T\OneDrive - Brillio\Desktop\Capstone-project\MongoRepository\MongoRepository\obj\Debug\net6.0\MongoRepository.genruntimeconfig.cache
 C:\Users\Anbumani.T\OneDrive - Brillio\Desktop\Capstone-project\MongoRepository\MongoRepository\obj\Debug\net6.0\ref\MongoRepository.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\appsettings.json
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\MongoRepository.exe
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\MongoRepository.deps.json
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\MongoRepository.runtimeconfig.json
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\MongoRepository.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\MongoRepository.pdb
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\Snappier.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\MongoRepository.csproj.AssemblyReference.cache
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\MongoRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\MongoRepository.AssemblyInfoInputs.cache
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\MongoRepository.AssemblyInfo.cs
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\MongoRepository.csproj.CoreCompileInputs.cache
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\MongoRepository.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\MongoRepository.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\scopedcss\bundle\MongoRepository.styles.css
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\MongoRepository.csproj.CopyComplete
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\MongoRepository.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\refint\MongoRepository.dll
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\MongoRepository.pdb
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\MongoRepository.genruntimeconfig.cache
+C:\Users\Deepak.singh2\Desktop\Capstone-Project-main\User-CRUD-Mongo\MongoRepository\obj\Debug\net6.0\ref\MongoRepository.dll
